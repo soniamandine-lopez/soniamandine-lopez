@@ -148,19 +148,34 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 ### Networks & Cybersecurity
 
-<img src="https://skillicons.dev/icons?i=GNS3,Cisco,pfSense,Wireshark,Kali Linux" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/gns3" alt="GNS3" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/pfsense" alt="pfSense" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="40" height="40"/>
+</p>
 
 <br><br>
 
 ### Systems
 
-<img src="https://skillicons.dev/icons?i=Linux,Ubuntu,Debian,Windows,Windows10,Windows11,Windows Server2016,Windows Server2022,Windows Server2025" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/windows" alt="Windows" width="40" height="40"/>
+</p>
 
 <br><br>
 
 ### Virtualization & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=Docker,VMware,VitualBox" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vmware" alt="VMware" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/virtualbox" alt="VirtualBox" width="40" height="40"/>
+</p>
 
 </div>
 
@@ -168,7 +183,13 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=Python,javascript,html,css,mysql" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/css" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40"/>
+</p>
 
 </div>
 
@@ -176,7 +197,12 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 ### Development & Administration Tools
 
-<img src="https://skillicons.dev/icons?i=Virtual Studio Code,PyCharm,IntelliJ IDEA,DBeaver" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/pycharm" alt="PyCharm" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/intellijidea" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/dbeaver" alt="DBeaver" width="40" height="40"/>
+</p>
 
 </div>
 
