@@ -154,6 +154,10 @@ I learn, experiment, and constantly strive to improve my work methods to develop
   <img src="https://cdn.simpleicons.org/pfsense" alt="pfSense" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/openvpn" alt="OpenVPN" width="40" height="40"/>
 </p>
 
 <br><br>
@@ -165,6 +169,9 @@ I learn, experiment, and constantly strive to improve my work methods to develop
   <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/activedirectory" alt="Active Directory" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/powershell" alt="PowerShell" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/bash" alt="Bash" width="40" height="40"/>
 </p>
 
 <br><br>
@@ -198,6 +205,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
   <img src="https://cdn.simpleicons.org/pycharm" alt="PyCharm" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/intellijidea" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/dbeaver" alt="DBeaver" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/zabbix" alt="Zabbix" width="40" height="40"/>
 </p>
 
 </div>
