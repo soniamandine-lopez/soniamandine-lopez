@@ -475,7 +475,7 @@ You can replace this card whenever you want.
 
 🔥🕵‍♀️🔐🛡️
 
-**Cyber Analyst**
+**Cybersecurity Analyst**
 
 </td>
 
