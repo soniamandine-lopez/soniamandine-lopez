@@ -149,12 +149,12 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 ### Networks & Cybersecurity
 
 <p align="center">
-  <img src="./assets/gns3.svg/ffbb00" alt="GNS3" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GNS3-1F1F1F?logo=gns3&logoColor=white" alt="GNS3" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/pfsense/007DCC" alt="pfSense" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nmap" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/openvpn" alt="OpenVPN" width="40" height="40"/>
@@ -180,7 +180,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/vmware" alt="VMware" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vmware/F2842F" alt="VMware" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/virtualbox" alt="VirtualBox" width="40" height="40"/>
 </p>
 
@@ -204,8 +204,8 @@ I learn, experiment, and constantly strive to improve my work methods to develop
   <img src="https://cdn.simpleicons.org/vscodium" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/pycharm/15D8B3" alt="PyCharm" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/intellijidea/D12052" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/dbeaver" alt="DBeaver" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=zabbix" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/dbeaver/9A8678" alt="DBeaver" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/zabbix" alt="Zabbix" width="40" height="40"/>
 </p>
 
 </div>
