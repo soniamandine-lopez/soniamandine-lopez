@@ -47,7 +47,7 @@
 
 ### Who am I?
 
-I'm **Sonia LOPEZ**, a third-year Bachelor's studient in Cybersecurity at NEXA Digital School.
+I'm **Sonia LOPEZ**, a third-year Bachelor's student in Cybersecurity at NEXA Digital School.
 
 Passionate about cybersecurity, I enjoy studyng threats, understanding how they work, and finding effective ways to counter them.
 
@@ -389,7 +389,7 @@ You can replace this card whenever you want.
 
 <div align="center">
 
-## ✦ MY JOURNEY
+## 🧭 MY JOURNEY
 
 </div>
 
@@ -399,11 +399,11 @@ You can replace this card whenever you want.
 <tr>
 <td align="center" width="20%">
 
-### 202X
+### 2021
 
 🎓
 
-**Beginning**
+**Specializes technological baccalaureate in Human Resources**
 
 </td>
 
@@ -411,23 +411,11 @@ You can replace this card whenever you want.
 
 <td align="center" width="20%">
 
-### 202X
+### 2021 - 2023
 
-💻
+📦🚚
 
-**First Projects**
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-### 202X
-
-🚀
-
-**Building**
+**Delivery Worker**
 
 </td>
 
@@ -435,11 +423,59 @@ You can replace this card whenever you want.
 
 <td align="center" width="20%">
 
-### NOW
+### 2023 - 2024
 
-🔥
+👩‍🏭📦
 
-**What's next?**
+**Temporary Worker**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+
+### 2024 - 2027
+
+👩‍🎓🔐💻
+
+**Cyber Bachelor**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+
+### 2027 - 20?
+
+🕵‍♀️🔐🛡️
+
+**Cyber Administrator**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+
+### 20? - 20?
+
+👩‍🎓🔐💻
+
+**Cyber Master**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+
+### 2035
+
+🔥🕵‍♀️🔐🛡️
+
+**Cyber Analyst**
 
 </td>
 
@@ -460,25 +496,25 @@ You can replace this card whenever you want.
 
 <br>
 
-<a href="mailto:TON_EMAIL">
+<a href="mailto:sonia.amandine.lopez@gmail.com">
   <img src="https://img.shields.io/badge/Let's_talk-8B5CF6?style=for-the-badge&logo=minutemailer&logoColor=white" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/TON-PSEUDO">
+<a href="https://github.com/soniamandine-lopez">
   GitHub
 </a>
 
 &nbsp;&nbsp;·&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sonia-amandine-lopez/">
   LinkedIn
 </a>
 
 &nbsp;&nbsp;·&nbsp;&nbsp;
 
-<a href="mailto:TON_EMAIL">
+<a href="mailto:sonia.amandine.lopez@gmail.com">
   Email
 </a>
 
