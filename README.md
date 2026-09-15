@@ -148,19 +148,19 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 ### Networks & Cybersecurity
 
-<img src="https://skillicons.dev/icons?i=gns3,ciscopackettracer,pfsense,wireshark,kalilinux" />
+<img src="https://skillicons.dev/icons?i=GNS3,Cisco,pfSense,Wireshark,Kali Linux" />
 
 <br><br>
 
 ### Systems
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,windows10,windows11,windowsserver2016,windowsserver2022,windowsserver2025" />
+<img src="https://skillicons.dev/icons?i=Linux,Ubuntu,Debian,Windows,Windows10,Windows11,Windows Server2016,Windows Server2022,Windows Server2025" />
 
 <br><br>
 
 ### Virtualization & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=dockerdesktop,vmwareworkstation,oraclevitualbox" />
+<img src="https://skillicons.dev/icons?i=Docker,VMware,VitualBox" />
 
 </div>
 
@@ -168,7 +168,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=Python,javascript,html,css,mysql" />
 
 </div>
 
@@ -176,7 +176,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 ### Development & Administration Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,intellijidea,dbeaver" />
+<img src="https://skillicons.dev/icons?i=Virtual Studio Code,PyCharm,IntelliJ IDEA,DBeaver" />
 
 </div>
 
