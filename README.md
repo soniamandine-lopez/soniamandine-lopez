@@ -149,12 +149,12 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 ### Networks & Cybersecurity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GNS3-1F1F1F?logo=gns3&logoColor=white" alt="GNS3" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GNS3-1F1F1F?logo=gns3&logoColor=2BBBD7" alt="GNS3" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/pfsense/007DCC" alt="pfSense" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Nmap-4D4D4D?logo=nmap&logoColor=CCFBFA" alt="Nmap" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/openvpn" alt="OpenVPN" width="40" height="40"/>
@@ -165,11 +165,11 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 ### Systems
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux/007DCC" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=activedirectory" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?logo=microsoft&logoColor=30AFFF" alt="Active Directory" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=powershell" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/>
 </p>
