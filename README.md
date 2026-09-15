@@ -353,37 +353,6 @@ You can replace this card whenever you want.
 <br>
 
 <!-- ========================================================= -->
-<!--                        GITHUB                             -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## ✦ GITHUB ACTIVITY
-
-<br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=a855f7&text_color=ffffff"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-PSEUDO&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=ffffff"
-  height="170"
-/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=TON-PSEUDO&theme=transparent&hide_border=true&ring=8b5cf6&fire=a855f7&currStreakLabel=8b5cf6"
-  width="60%"
-/>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
 <!--                        JOURNEY                            -->
 <!-- ========================================================= -->
 
