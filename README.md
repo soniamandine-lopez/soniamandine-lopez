@@ -148,8 +148,8 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 ### Networks & Cybersecurity
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/gns3" alt="GNS3" width="40" height="40"/>
+<p align="center">
+  <img src="./assets/gns3.svg" alt="GNS3" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/pfsense" alt="pfSense" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40"/>
@@ -160,30 +160,28 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 ### Systems
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/windows" alt="Windows" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/windows.svg" alt="Windows" width="40" height="40"/>
 </p>
 
 <br><br>
 
 ### Virtualization & Infrastructure
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/vmware" alt="VMware" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/virtualbox" alt="VirtualBox" width="40" height="40"/>
 </p>
 
-</div>
-
 <br><br>
 
 ### Development
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40"/>
@@ -191,14 +189,12 @@ I learn, experiment, and constantly strive to improve my work methods to develop
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40"/>
 </p>
 
-</div>
-
 <br><br>
 
 ### Development & Administration Tools
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/pycharm" alt="PyCharm" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/intellijidea" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/dbeaver" alt="DBeaver" width="40" height="40"/>
