@@ -164,7 +164,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
   <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" />
 </p>
 
 <br><br>
