@@ -150,14 +150,14 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <p align="center">
   <img src="./assets/gns3.svg/ffbb00" alt="GNS3" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/cisco/ffbb00" alt="Cisco" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/pfsense/ffbb00" alt="pfSense" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/wireshark/ffbb00" alt="Wireshark" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/kalilinux/ffbb00" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nmap/ffbb00" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/metasploit/ffbb00" alt="Metasploit" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/burpsuite/ffbb00" alt="Burp Suite" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/openvpn/ffbb00" alt="OpenVPN" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/pfsense/007DCC" alt="pfSense" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nmap" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/openvpn" alt="OpenVPN" width="40" height="40"/>
 </p>
 
 <br><br>
@@ -165,13 +165,13 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 ### Systems
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/linux/ffbb00" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/ubuntu/ffbb00" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/debian/ffbb00" alt="Debian" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=windows/ffbb00" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=activedirectory/ffbb00" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=powershell/ffbb00" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash/ffbb00" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=activedirectory" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=powershell" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/>
 </p>
 
 <br><br>
@@ -179,9 +179,9 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 ### Virtualization & Infrastructure
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/docker/ffbb00" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/vmware/ffbb00" alt="VMware" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/virtualbox/ffbb00" alt="VirtualBox" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vmware" alt="VMware" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/virtualbox" alt="VirtualBox" width="40" height="40"/>
 </p>
 
 <br><br>
@@ -189,11 +189,11 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 ### Development
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/ffbb00" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/ffbb00" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/html5/ffbb00" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/css/ffbb00" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql/ffbb00" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/css" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40"/>
 </p>
 
 <br><br>
@@ -201,11 +201,11 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 ### Development & Administration Tools
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/vscodium/ffbb00" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/pycharm/ffbb00" alt="PyCharm" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/intellijidea/ffbb00" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/dbeaver/ffbb00" alt="DBeaver" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=zabbix/ffbb00" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vscodium" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/pycharm" alt="PyCharm" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/intellijidea" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/dbeaver" alt="DBeaver" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=zabbix" width="40" height="40"/>
 </p>
 
 </div>
