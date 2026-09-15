@@ -142,25 +142,41 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <div align="center">
 
-## ✦ TECHNOLOGIES I WORK WITH
+## 🧩 TECHNOLOGIES I WORK WITH
 
 <br>
 
-### Frontend
+### Networks & Cybersecurity
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,php,express" />
+<img src="https://skillicons.dev/icons?i=gns3,ciscopackettracer,pfsense,wireshark,kalilinux" />
 
 <br><br>
 
-### Tools & Infrastructure
+### Systems
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,windows10,windows11,windowsserver2016,windowsserver2022,windowsserver2025" />
+
+<br><br>
+
+### Virtualization & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=dockerdesktop,vmwareworkstation,oraclevitualbox" />
+
+</div>
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+
+</div>
+
+<br><br>
+
+### Development & Administration Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,intellijidea,dbeaver" />
 
 </div>
 
