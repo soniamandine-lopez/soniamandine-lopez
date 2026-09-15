@@ -202,8 +202,8 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/vscodium" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/pycharm" alt="PyCharm" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/intellijidea" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/pycharm/15D8B3" alt="PyCharm" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/intellijidea/D12052" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/dbeaver" alt="DBeaver" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=zabbix" width="40" height="40"/>
 </p>
