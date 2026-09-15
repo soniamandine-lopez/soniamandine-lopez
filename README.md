@@ -169,7 +169,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
   <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=windows" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?logo=microsoft&logoColor=30AFFF" alt="A D" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?logo=microsoft&logoColor=30AFFF" alt="A D" width="125" height="40"/>
   <img src="https://skillicons.dev/icons?i=powershell" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/>
 </p>
@@ -180,7 +180,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/vmware/F2842F" alt="VMware" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vmware/F2842F" alt="VMware" width="50" height="40"/>
   <img src="https://cdn.simpleicons.org/virtualbox" alt="VirtualBox" width="40" height="40"/>
 </p>
 
@@ -205,7 +205,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
   <img src="https://cdn.simpleicons.org/pycharm/15D8B3" alt="PyCharm" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/intellijidea/D12052" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/dbeaver/9A8678" alt="DBeaver" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Zabbix-D40000?logo=zabbix&logoColor=DF301C" alt="Zabbix" width="65" height="40"/>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?logo=zabbix&logoColor=DF301C" alt="ZABBIX" width="65" height="40"/>
 </p>
 
 </div>
