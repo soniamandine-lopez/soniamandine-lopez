@@ -164,7 +164,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
   <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/windows.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="40" height="40"/>
 </p>
 
 <br><br>
@@ -194,7 +194,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 ### Development & Administration Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vscodium" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/pycharm" alt="PyCharm" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/intellijidea" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/dbeaver" alt="DBeaver" width="40" height="40"/>
