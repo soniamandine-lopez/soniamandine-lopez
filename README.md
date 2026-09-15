@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# 👋 Hello, I'm **TON NOM**
+# 👋 Hello, I'm **Sonia LOPEZ**
 
-### `FULL-STACK DEVELOPER` · `CREATIVE DEVELOPER` · `PROBLEM SOLVER`
+### `Cybersecurity Studient` · `3rd Year Bachelor at NEXA Digital School`
 
 <p>
   I build digital experiences that are
@@ -15,15 +15,15 @@
 
 <br>
 
-<a href="https://github.com/TON-PSEUDO">
+<a href="https://github.com/soniamandine-lopez">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sonia-amandine-lopez/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:TON_EMAIL">
+<a href="mailto:sonia.amandine.lopez@gmail.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -47,11 +47,11 @@
 
 ### Who am I?
 
-I'm **TON NOM**, a developer passionate about technology, design and creating digital products.
+I'm **Sonia LOPEZ**, a third-year Bachelor's studient in Cybersecurity at NEXA Digital School.
 
-I enjoy turning ideas into real projects — from the first concept to the final implementation.
+Passionate about cybersecurity, I enjoy studyng threats, understanding how they work, and finding effective ways to counter them.
 
-I'm constantly learning, experimenting and looking for better ways to build things.
+I learn, experiment, and constantly strive to improve my work methods to develop my skills and take on new challenger.
 
 <br>
 
@@ -63,12 +63,14 @@ I'm constantly learning, experimenting and looking for better ways to build thin
 
 ### ⚡ Quick facts
 
-- 💻 Developer
-- 🚀 Building digital products
-- 🧠 Always learning
-- 🎨 Interested in UI / UX
-- 🔥 Open to interesting projects
-- 🌍 Based in **TON PAYS**
+- 🔐 Cybersecurity
+- 🧠 Skills & Technologies
+- 🧪 Labs & CTF
+- 🚀 Projects
+- 📚 Learning journey
+- 🎯 Goals
+- 📫 Contact
+- 🌍 Based in **France**
 
 </td>
 </tr>
