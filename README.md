@@ -55,7 +55,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <br>
 
-> * 💡 "Knowledge is an asset, experience is a necessity."*
+> *"Knowledge is an asset, experience is a necessity."*
 
 </td>
 
@@ -231,19 +231,18 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <td width="50%">
 
-## 🚀 Project One
+## Secure VLAN and VPN network
 
-<img src="https://placehold.co/900x500/0b1020/8b5cf6?text=PROJECT+ONE" width="100%" />
+<img src="Projet-RéseauSécuriséVLAN&VPN.png" width="100%" />
 
 ### Description
 
-A short description of your project goes here.
-
-Explain in 1–2 sentences what the project does and why you built it.
+This project involves designing and configuring a network infrastructure in Cisco Packet Tracer that incorporates VLAN segmentation, inter-VLAN routing, and communication filtering using an ACL. A second router is then added to implement an IPsec VPN and secure data exchange between two networks.
 
 **Tech stack**
 
-`React` `TypeScript` `Node.js`
+`Cisco Packet Tracer` `Cisco Routers` `Cisco Switch` `802.1Q VLAN` `Inter-VLAN routing (Router-on-a-Stick)`
+`ACL (Access Control List)` `IPsec VPN` `ISAKMP / IKE` `ESP (AES / SHA)` `IP/ICMP protocols`
 
 <br>
 
@@ -252,10 +251,6 @@ Explain in 1–2 sentences what the project does and why you built it.
 </a>
 
 &nbsp;&nbsp;
-
-<a href="#">
-  💻 Source Code
-</a>
 
 </td>
 
@@ -282,10 +277,6 @@ You can explain the problem it solves and the technologies you used.
 </a>
 
 &nbsp;&nbsp;
-
-<a href="#">
-  💻 Source Code
-</a>
 
 </td>
 
@@ -315,10 +306,6 @@ Another project that you want to highlight.
 
 &nbsp;&nbsp;
 
-<a href="#">
-  💻 Source Code
-</a>
-
 </td>
 
 <td width="50%">
@@ -344,10 +331,6 @@ You can replace this card whenever you want.
 </a>
 
 &nbsp;&nbsp;
-
-<a href="#">
-  💻 Source Code
-</a>
 
 </td>
 
