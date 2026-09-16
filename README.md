@@ -340,12 +340,12 @@ You can replace this card whenever you want.
 <br>
 
 <!-- ========================================================= -->
-<!--                       CURRENTLY                           -->
+<!--                       CERTIFICATIONS                      -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-## ✦ CURRENTLY
+## ✨ CERTIFICATIONS
 
 </div>
 
@@ -354,25 +354,27 @@ You can replace this card whenever you want.
 
 <td width="33%" align="center">
 
-### 🔭 Working on
+### 🌱 Bachelor's Degree – Systems, Network, and Security Administration 
 
-**TON PROJET ACTUEL**
+**RNCP - 41807**
 
-</td>
+`IN PROGRESS`
 
-<td width="33%" align="center">
+</td><td width="33%" align="center">
 
-### 🌱 Learning
+### 🏴‍☠️ TryHackMe - SOC0
 
-**UNE TECHNOLOGIE**
+<img src="SOC0_Sonia_LOPEZ.jpg" width="100%" />
 
-</td>
+`FINISHED`
 
-<td width="33%" align="center">
+</td><td width="33%" align="center">
 
-### 💡 Exploring
+### 🏴‍☠️ TryHackMe - SOC1
 
-**UN DOMAINE**
+<img/>
+
+`IN PROGRESS`
 
 </td>
 
