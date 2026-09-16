@@ -24,7 +24,7 @@
 </a>
 
 <a href="mailto:sonia.amandine.lopez@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-DF301C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-## ✦ ABOUT ME
+## 👩‍🎓 ABOUT ME
 
 </div>
 
@@ -55,7 +55,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <br>
 
-> *"Great software isn't just built. It's designed, refined and cared for."*
+> * 💡 "Knowledge is an asset, experience is a necessity."*
 
 </td>
 
@@ -84,7 +84,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <div align="center">
 
-## ✦ A FEW NUMBERS
+## #️⃣ A FEW NUMBERS
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 **PROJECTS**
 
-`XX+`
+`20`
 
 </td>
 
@@ -105,7 +105,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 **TECHNOLOGIES**
 
-`XX+`
+`30`
 
 </td>
 
@@ -115,7 +115,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 **GITHUB REPOS**
 
-`XX+`
+`1`
 
 </td>
 
@@ -125,7 +125,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 **YEARS LEARNING**
 
-`XX+`
+`3`
 
 </td>
 
@@ -218,7 +218,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 <div align="center">
 
-## ✦ FEATURED PROJECTS
+## 🏆 FEATURED PROJECTS
 
 ### Some things I've built
 
@@ -505,38 +505,32 @@ You can replace this card whenever you want.
 
 <div align="center">
 
-# ✦ LET'S BUILD SOMETHING
+# 🌱 LET'S BUILD SOMETHING
 
 ### Have an idea, a project or simply want to talk?
 
 <br>
 
-<a href="mailto:sonia.amandine.lopez@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_talk-8B5CF6?style=for-the-badge&logo=minutemailer&logoColor=white" />
-</a>
-
-<br><br>
-
 <a href="https://github.com/soniamandine-lopez">
-  GitHub
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 &nbsp;&nbsp;·&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sonia-amandine-lopez/">
-  LinkedIn
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 &nbsp;&nbsp;·&nbsp;&nbsp;
 
 <a href="mailto:sonia.amandine.lopez@gmail.com">
-  Email
+  <img src="https://img.shields.io/badge/Email-DF301C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
 ---
 
-<sub>Designed & built with ❤️ by <strong>TON NOM</strong></sub>
+<sub>Designed & built with ❤️ by <strong>Sonia LOPEZ</strong></sub>
 
 </div>
