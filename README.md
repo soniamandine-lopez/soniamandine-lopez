@@ -246,8 +246,8 @@ This project involves designing and configuring a network infrastructure in Cisc
 
 <br>
 
-<a href="[main/soniamandine-lopez/Projet-R-seau-Cisco---Routage-inter-VLAN-ACL-VPN-IPsec]">
-  🔗 View Project
+<a href="(https://github.com/soniamandine-lopez/Projet-R-seau-Cisco---Routage-inter-VLAN-ACL-VPN-IPsec)">
+  🔗 View Project 
 </a>
 
 &nbsp;&nbsp;
