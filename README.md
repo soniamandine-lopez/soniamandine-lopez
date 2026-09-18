@@ -272,7 +272,7 @@ You can explain the problem it solves and the technologies you used.
 
 <br>
 
-<a href="[soniamandine-lopez/Projet-R-seau-Cisco---Routage-inter-VLAN-ACL-VPN-IPsec]">
+<a href="soniamandine-lopez/Projet-R-seau-Cisco---Routage-inter-VLAN-ACL-VPN-IPsec">
   🔗 View Project
 </a>
 
