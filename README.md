@@ -233,7 +233,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 ## Cisco Network Security Lab : Inter-VLAN Routing, ACL & IPsec VPN
 
-<img src="Projet-RéseauSécuriséVLAN&VPN.png" width="100%" />
+<img src="Images/Projet-RéseauSécuriséVLAN&VPN.png" width="100%" />
 
 ### Description
 
@@ -364,7 +364,7 @@ You can replace this card whenever you want.
 
 ### 🏴‍☠️ TryHackMe - SOC0
 
-<img src="SOC0_Sonia_LOPEZ.jpg" width="100%" />
+<img src="Images/SOC0_Sonia_LOPEZ.jpg" width="100%" />
 
 `FINISHED`
 
