@@ -115,7 +115,7 @@ I learn, experiment, and constantly strive to improve my work methods to develop
 
 **GITHUB REPOS**
 
-`1`
+`3`
 
 </td>
 
@@ -258,21 +258,19 @@ This project involves designing and configuring a network infrastructure in Cisc
 
 ## 🌌 Project Two
 
-<img src="https://placehold.co/900x500/0b1020/ec4899?text=PROJECT+TWO" width="100%" />
+<img src="Images/Projet-Audit&evaluation_du_reseau.png" width="100%" />
 
 ### Description
 
-A short description of your second project.
-
-You can explain the problem it solves and the technologies you used.
+A comprehensive IT infrastructure audit for CloudNexa, focused on network architecture analysis, security assessment, asset inventory, and infrastructure resilience. Identifies critical vulnerabilities, network weaknesses, and scalability issues while providing prioritized remediation recommendations.
 
 **Tech stack**
 
-`Python` `FastAPI` `PostgreSQL`
+`Nmap` `Cisco IOS` `FortiGate` `Proxmox VE` `Linux` `SNMP` `SSH` `draw.io`
 
 <br>
 
-<a href="">
+<a href="https://github.com/soniamandine-lopez/Projet-CloudNEXA---Audit-de-l-infrastructure-informatique-----valuation-du-r-seau">
   🔗 View Project
 </a>
 
