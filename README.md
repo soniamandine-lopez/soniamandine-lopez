@@ -256,7 +256,7 @@ This project involves designing and configuring a network infrastructure in Cisc
 
 <td width="50%">
 
-## CloudNexa Project : IT Infrastructure Audit & Network Assessment
+## CloudNexa : IT Infrastructure Audit & Network Assessment
 
 <img src="Images/Projet-Audit&evaluation_du_reseau.png" width="100%" />
 
